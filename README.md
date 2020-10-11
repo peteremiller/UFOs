@@ -10,6 +10,10 @@ Specifically, I am going to create a table to organize UFO data that is stored a
 
 ## Results 
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+
+<img src="filter_city.png">
+<img src="filter_shape.png">
+<img src="filter_all.png">
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 Deliverable 2 Requirements
 Structure, Organization, and Formatting (8 points)
