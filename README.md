@@ -2,7 +2,7 @@
 
 # UFO Sightings: Fact of Fancy?
 
-## Overview of Project
+## Overview of the Analysis
 
 The purpose of this analysis is to begin the journey of learning JavaScript by looking into its technical aspects and how it applies to the field of data analytics and vizualization. In this project I will assist Dana, a data journalist, as she write an article about her hometown, McMinnville, Oregon. According to Dana her hometown is famous for its UFO sightings that go back to her choldhood during the 1950's. She has decided to use som e Javascript data she received to create a Webpage for her story and to make the data available to others. We will build a dynamic Webpage by inserting JavaScript into an HTML page. It will also be important to draw upon my knowledge of CSS and Boootstrap to build and style the page for consistent functionality. I'll also use ChromeDev tools to test the code created for the Webpage.
 
