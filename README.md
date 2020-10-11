@@ -25,7 +25,7 @@ The final phase of our project, Dana, is to make sure you are comfortable using 
 
 
 ## Summary
-In summary, this analysis is a wonderful starting place for those who may have some familiarity with UFO sightings, but I think you and I can make this tool really amazing with a few additions. Here are a few suggestions that I believe my make your project more appealing:
+In summary, this analysis is a wonderful starting place for those who may have some familiarity with UFO sightings, but I think you and I can make this tool really amazing with a few additions. Here are a few suggestions that I believe will make your Webpage more appealing:
 
 1.) We are limited to searching the data in our one JavaScript file. What do you think might happen to the "Filter Search' capability if we linked this Webpage to several other Webpages that are dedicated to the same goals you have in mind? I have the knowledge needed to search other UFO Websites and then automatically update your Webpage with new searchable data; it's called 'web scrapping'. The new data would contain most if not all of the search criteria offered on your Webpage and it will be updated as often as you want. You would have the opportunity to share your data with others and they would share their data with you to provide more events for the user to search and learn about UFO sightings.
 
