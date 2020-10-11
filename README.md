@@ -1,3 +1,5 @@
+<img src="surf_shake.png">
+
 # UFOs
 
 Overview of Project: Explain the purpose of this analysis.
