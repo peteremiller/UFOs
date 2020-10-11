@@ -10,9 +10,13 @@ Specifically, I am going to create a table to organize UFO data that is stored a
 
 ## Results 
 The final phase of our project, Dana, is to make sure you are comfortable using the filtering capability of the Webpage we have created. It has some limitations, but overall it is a great tool for searching the data you provided for the project. 
+
 1.) First, take a look at the three pictures I have provided below. You'll see that there are five criteria proveded for the 'Filter Search': date, city, state, country, and shape. As well, there are potentially seven results for each search: date, city, state, country, shape, duration, and comments. 
+
 2.) Second, in order to begin a search of the data, enter a word that describes one of the five 'Filter Search' criteria. For example, if you will notice there are sample words that are 'nested' in the "Filter Search' boxes. Type the appropriate information into one or more of the boxes and then click the enter button on your keyboard to initiate a search. 
+
 3.) Next, it is not necessary to fill in each box in order for information to be returned. You'll see in the first picture below that only the 'Enter a City' box was chosen and information on every event in our data that occurred in that city is returned in the search. The same is true for the second picture that demonstrates what will happen when only a shape is known and nothing else. The result is every event that matches the filter of 'shape' is returned from the provided data. 
+
 4.) And finally, if someone has a specific event in mind and all five of the criteria are chosen, the results are very specific. Pretty cool, huh! I think your idea is great! Thank you for the opportunity to work with someone who knew exactly what you wanted to accomplish. 
 
 <img src="filter_city.png">
