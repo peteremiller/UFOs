@@ -9,46 +9,20 @@ The purpose of this analysis is to begin the journey of learning JavaScript by l
 Specifically, I am going to create a table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on certain criteria. The page will display Dana's article and give those who visit her page the opportunity to interact with the data and search for UFO sightings based on defined criteria. This will be a wonderful opportunity to assist Dana in creating a useable tool for those who are interested in searching for UFO sightings that occurred throughout the United States.
 
 ## Results 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+The final phase of our project, Dana, is to make sure you are comfortable using the filtering capability of the Webpage we have created. It has some limitations, but overall it is a great tool for searching the data you provided for the project. First, take a look at the three pictures I have provided below. You'll see that there are five criteria proveded for the 'Filter Search': date, city, state, country, and shape. As well, there are potentially seven results for each search: date, city, state, country, shape, duration, and comments. In order to begin a search of the data, enter a word that describes one of the five 'Filter Search' criteria. For example, if you will notice there are sample words that are 'nested' in the "Filter Search' boxes. Type the appropriate information into one or more of the boxes and then click the enter button on your keyboard to initiate a search. It is not necessary to fill in each box in order for information to be returned. You'll see in the first picture below that only the 'Enter a City' box was chosen and information on every event in our data that occurred in that city is returned in the search. The same is true for the second picture that demonstrates what will happen when only a shape is known and nothing else. The result is every event that matches the filter of 'shape' is returned from the provided data. And finally, if someone has a specific event in mind and all five of the criteria are chosen, the results are very specific. Pretty cool, huh! I think your idea is great! Thank you for the opportunity to work with someone who knew exactly what you wanted to accomplish. 
 
 <img src="filter_city.png">
 <img src="filter_shape.png">
 <img src="filter_all.png">
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
-Deliverable 2 Requirements
-Structure, Organization, and Formatting (8 points)
-The written analysis has the following structure, organization, and formatting:
 
-There is a title, and there are multiple paragraphs. (2 pt)
-Each paragraph has a heading. (2 pt)
-There are subheadings to break up text. (2 pt)
-Images are formatted and displayed where appropriate. (2 pt)
-Analysis (12 points)
-The written analysis has the following:
 
-Overview of the analysis:
+## Summary
+In summary, this analysis is a wonderful starting place for those who may have some familiarity with UFO sightings, but I think you and I can make this tool really amazing with a few additions. Here are a few suggestions that I believe my make your project more appealing:
 
-The purpose is well defined (2 pt)
-Results:
+1.) We are limited to searching the data in our one JavaScript file. What do you think might happen to the "Filter Search' capability if we linked this Webpage to several other Webpages that are dedicated to the same goals you have in mind? I have the knowledge needed to search other UFO Websites and then automatically update your Webpage with new searchable data; it's called 'web scrapping'. The new data would contain most if not all of the search criteria offered on your Webpage and it will be updated as often as you want. You would have the opportunity to share your data with others and they would share their data with you to provide more events for the user to search and learn about UFO sightings.
 
-There is a description of how to perform a search, with images. (4 pt)
-Summary:
+2.) Currently we aren't able to add new user UFO sightings to the Webpage. Perhaps I could create an additional area below the current "Filter Search' to encourage people to share their personal UFO sighting experiences. I have the knowledge to create additional filter boxes that would be the same as the seven areas of search results: date, city, state, country, shape, duration, and comments. I believe a few addional boxes would be helpful. Perhpas, their name and contact information would be useful to you for follow up. Once the information is submitted, I would have the information emailed to you (I know how to make that happen, too!) and you could make contact with the person if their story interests you for another article or series of articles, or documentary! 
 
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
-_________________________________________________________________________________________________________________________________
-UFOS
-Using Javascript, bootstrap to make a UFO sightings page
+This was a fun analysis, Dana. It took a lot of hours to figure it out, but the visual results are well worth the effort. If you have suggestions or modifications to something I have suggested, please let me know. I look forward to hearing from you soon.
 
-Overview of the Project
-For this project we are building an HTML page that will allow us to pull up information from a javascript data file using filters on the page. We want to use filters since we have many different sightings that occurred throughout the U.S.-- based on the different areas or what type of shape of the sighting.
-
-HTML Page and our results
-Screen Shot 2020-10-03 at 11 08 01 AM
-
-Once entering the website our client will see the basic opening and title with the picture at the top, as the client scrolls down they will begin to see all the data and filters that we have(which is in the image below). From this image below we have 5 different filters to choose from; the date, city, state, country & shape. You can choose any of these filters enter the search bar, then the HTML page will show all of the sightings for that specific search. Multiple filters can be entered at the same time to further inspect the data in the specific search bar that is entered.
-
-filters
-
-Summary
-We have created a page that looks clean and allows the user to filter through the different sitings in our data set using the search bars created. One big drawback about our search bar is trying to validate the sitings that happened which can be better described in the data. If we had how many people were at the siting would be a helpful element to validating the claims. Having as much data as possible for website would make it as good as it can possible be. My two recommendations for improving this website would 1. to have more data that has more information including how many people were at the site 2. adding another filter to find the sitings by lengt and last but not least have a site that would be constantly updating our data adding new sitings to our page.
+end of analysis PEM
