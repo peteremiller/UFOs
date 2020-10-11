@@ -2,13 +2,13 @@
 
 # UFO Sightings: Fact of Fancy?
 
-Overview of Project
+## Overview of Project
 
 The purpose of this analysis is to begin the journey of learning JavaScript by looking into its technical aspects and how it applies to the field of data analytics and vizualization. In this project I will assist Dana, a data journalist, as she write an article about her hometown, McMinnville, Oregon. According to Dana her hometown is famous for its UFO sightings that go back to her choldhood during the 1950's. She has decided to use som e Javascript data she received to create a Webpage for her story and to make the data available to others. We will build a dynamic Webpage by inserting JavaScript into an HTML page. It will also be important to draw upon my knowledge of CSS and Boootstrap to build and style the page for consistent functionality. I'll also use ChromeDev tools to test the code created for the Webpage.
 
-Specifically, I am going to create a table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on certain criteria. The page will display Dana's article and give those who visit her page the opportunity to interact with the data and search for UFO sightings based on defined criteria.IN all, this will be a wonderful opportunity to assist Dana in creating a useable tool for those who are interested in searching for UFO sightings and comparing experiences gathered from the JavaScript data Dana is providing for the project.
+Specifically, I am going to create a table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on certain criteria. The page will display Dana's article and give those who visit her page the opportunity to interact with the data and search for UFO sightings based on defined criteria. This will be a wonderful opportunity to assist Dana in creating a useable tool for those who are interested in searching for UFO sightings that occurred throughout the United States.
 
-Results 
+## Results 
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 Deliverable 2 Requirements
